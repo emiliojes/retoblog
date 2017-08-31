@@ -1,0 +1,66 @@
+body
+{
+	font-family: 'Merriweather', serif;
+	margin: 0;
+}
+
+.titulo-a, .titulo-aa
+{
+	font-size: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+
+.titulo-b
+{
+	font-size: 20px;
+}
+
+.title-a
+{
+	font-size: 13px;
+}
+
+.title-b
+{
+	font-size: 12px;
+}
+
+.portada2 h2 
+{
+
+}
+
+.logotipo
+{
+	padding: 10px 0 10px 10px;
+	margin: 0;
+	background: #273b47;
+	display: inline-block;
+}
+
+.background
+{
+	font-family: 'Muli', sans-serif;
+	/*background-image: url('../images/bitcoinbackground.jpg');*/
+	background: #efefef;
+	color: #8b8b8c;
+	padding: 20px;
+}
+
+.titulo-b, .title-b
+{
+	color: #8b8b8c;
+}
+
+.menu 
+{
+	font-size: 24px;
+	display: inline-block;
+}
+
+.menu li
+{
+	/*display: list-item;*/
+	display: inline-block;
+}
